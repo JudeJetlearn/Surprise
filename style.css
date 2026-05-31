@@ -1,0 +1,60 @@
+body{
+    background-image: url("./images/Stars Gif.gif");
+    color: yellow;
+}
+
+.center{
+    margin-left: 40%;
+}
+.center2{
+    margin-left: 45%;
+}
+.center3{
+    margin-left: 37.5%;
+}
+.down{
+    margin-top: 5%;
+}
+
+.buttonCol{
+    color: black;
+    background-color: yellow;
+    width: 100px;
+    height: 75px;
+    border: 2px white solid;
+    border-radius: 20px;
+}
+
+footer{
+    margin-left: 45%;
+    margin-top: 100%;
+    background-color: black;
+    color: yellow;
+}
+
+.yellow{
+    color: yellow;
+}
+.lightyellow{
+    color: rgb(255, 255, 87);
+}
+
+.themebutton{
+    background-color: white;
+    color: black;
+    margin-left: 90%;
+    border: 5px grey solid;
+    border-radius: 20px;
+    height: 75px;
+}
+
+.gasoek{
+  font-family: "Gasoek One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.img-fix{
+    border-radius: 20%;
+    border: 5px grey solid;
+}
